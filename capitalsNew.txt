@@ -1,0 +1,12 @@
+France
+Paris
+3
+0
+Russia
+Moscow
+2
+0
+Japan
+Tokyo
+1
+1
